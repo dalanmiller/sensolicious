@@ -14,4 +14,4 @@ I propose we create a new site for Cafe Senso, host it on Github's [gh-pages](ht
 
 Development has started and you can view the page here - http://dalanmiller.github.com/sensolicious/
 
-To modify the files, you'll need to pull down the branch via `git pull origin gh-pages:gh-pages` I believe. And then when you push back, just do git push origin gh-pages.
+To modify the files, you'll need to pull down the branch via `git pull origin gh-pages:gh-pages` I believe. And then when you push back, just do `git push origin gh-pages`.
