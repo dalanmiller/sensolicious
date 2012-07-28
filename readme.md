@@ -9,3 +9,9 @@ That being said, I think it's time to do something about it. How else will the p
 
 I propose we create a new site for Cafe Senso, host it on Github's [gh-pages](http://pages.github.com/) and offer it to Mario himself. If he doesn't like it, so be it, but we'll have a damn good time doing something awesome.
 
+
+=====
+
+Development has started and you can view the page here - http://dalanmiller.github.com/sensolicious/
+
+To modify the files, you'll need to pull down the branch via `git pull origin gh-pages:gh-pages` I believe. And then when you push back, just do git push origin gh-pages.
