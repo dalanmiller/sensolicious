@@ -1,2 +1,8 @@
 .senso-main {
-  margin-top: 30px; }
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+  margin-bottom: 100px; }
+  .senso-main .section {
+    margin: 70px 0px; }
