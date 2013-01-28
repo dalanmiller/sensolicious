@@ -1,0 +1,12 @@
+.senso-main {
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  margin-bottom: 100px; }
+  .senso-main .section {
+    margin: 70px 0px; }
+  .senso-main .section1 {
+    padding: 10px;
+    background-image: url("http://placehold.it/1024x768/603311/ffffff");
+    background-position: center; }
